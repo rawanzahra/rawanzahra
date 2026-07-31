@@ -1,30 +1,15 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! Nice to see you.
+<h1 align='center'>
+Rawan Ali 👋
 </h1>
 
 <p>
-Welcome to my GitHub profile! 👋 <br>
-I'm <b>Rawan Ali</b> from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> <b>Egypt</b>.
-
 I'm passionate about <b>Frontend Development</b> and <b>Data Analysis</b>. I enjoy building responsive web applications, analyzing data, and transforming raw data into meaningful insights.
 
-🌱 I'm constantly learning, improving my skills, and exploring new technologies every day.
+I'm constantly learning, improving my skills, and exploring new technologies every day.
 </p>
 
----
 
-## 🚀 About Me
-
-- 💻 Frontend Developer
-- 📊 Data Analysis Enthusiast
-- 🎓 Engineering Student
-- 🌱 Always learning and improving my skills
-- 🤝 Open to internships, freelance opportunities, and collaborations
-
----
-
-## 🛠️ Things I Code With
+## Things I Code With
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -47,36 +32,8 @@ I'm passionate about <b>Frontend Development</b> and <b>Data Analysis</b>. I enj
 
 - ⚛️ React.js
 - 📈 Advanced Data Analysis
-- 📊 Data Visualization
-- 🗄️ Database Design
-- 🎨 UI/UX Best Practices
 
----
 
-## 🚀 Projects
-
-### 💻 Frontend Projects
-- Responsive Landing Pages
-- Portfolio Website
-- JavaScript Applications
-
-### 📊 Data Analysis Projects
-- Excel Dashboard
-- Power BI Dashboard
-- Tableau Dashboard
-- SQL Data Analysis
-- Python Data Cleaning & EDA
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 📫 Connect with Me
 
