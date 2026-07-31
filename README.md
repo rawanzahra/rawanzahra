@@ -1,7 +1,9 @@
 <h1 align='center'>
 Rawan Ali 👋
 </h1>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rawanzahra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <p>
 I'm passionate about <b>Frontend Development</b> and <b>Data Analysis</b>. I enjoy building responsive web applications, analyzing data, and transforming raw data into meaningful insights.
 
